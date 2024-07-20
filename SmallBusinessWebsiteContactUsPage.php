@@ -1,0 +1,1 @@
+<h3>Pakistan Address</h3><p>Kohat</p> <h4>Phone Number &amp; Email</h4><p><a href="tel:+310259121563">+</a>92 0987352105<a href="mailto:ashwinamuazzam@gmail.com">ashwinamuazzam@gmail.com</a></p> <h4>Our Office Address</h4><p>Street#21, Miland Line, 21563, Kohat</p> <h4>Resturant Time</h4><p>Monday - Sunday</p><p>9AM - 12AM</p>[contact-form-7 id="1639" title="Contact Page"]
